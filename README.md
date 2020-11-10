@@ -1,3 +1,3 @@
 # Training-ML-models
-## Open a File and Click "open in Colab" button
-## Then Follow the following steps
+## Step 1: Open a File and Click "open in Colab" button
+## Step 2: Follow the following steps
